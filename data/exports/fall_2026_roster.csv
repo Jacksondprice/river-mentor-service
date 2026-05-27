@@ -1,0 +1,54 @@
+student_id,first_name,last_name,date_of_birth,grade,homeroom,student_email,guardian_name,guardian_email,guardian_phone,iep,lunch_status
+2130517,Liam,Vasquez,2013-04-14,8,A276,liam.vasquez13@coralbayusd.org,Olivia Vasquez,olivia_vasquez2@quillnote.net,(206) 958-3914,False,paid
+3140906,Olivia,Flores,2012-02-11,9,B207,olivia.flores12@coralbayusd.org,Daniel Flores,dflores94@slatedispatch.net,469-958-3203,False,paid
+5070259,Valeria,Rivera,2016-11-27,5,D207,valeria.rivera16@coralbayusd.org,Mia Rivera,mia_rivera9@cinderinbox.net,469-959-2025,False,free
+6066112,Adrian,Chen,2010-12-27,11,A166,adrian.chen10@coralbayusd.org,Fatima Shah,fatimashah80@cinderwire.net,602-959-7641,False,paid
+7013350,Liam,Bennett,2016-04-28,5,E242,liam.bennett16@coralbayusd.org,Mason Bennett,bennett.mason@tidalbox.net,312-959-0073,False,paid
+1319650,Isabella,Okafor,2011-02-18,10,D158,isabella.okafor11@coralbayusd.org,Ruby Foster,ruby.foster@tidalbox.net,(206) 959-3298,False,paid
+4537799,Kayla,Sanchez,2010-02-13,11,D304,kayla.sanchez10@coralbayusd.org,Ava Sanchez,avasanchez69@tidalbox.net,773-959-6754,False,paid
+3303960,Nora,Nguyen,2012-12-03,9,E231,nora.nguyen12@coralbayusd.org,Priya Ibarra,priya.ibarra@heronwire.net,(720) 959-1438,False,reduced
+8816169,Rohan,Jenkins,2011-11-12,10,D115,rohan.jenkins11@coralbayusd.org,Valeria Jenkins,valeria_jenkins9@heronwire.net,972-958-0039,False,free
+4792289,Dominic,Ferreira,2016-04-26,5,B148,dominic.ferreira16@coralbayusd.org,Hector Ferreira,hector_ferreira4@birchletters.com,919-958-0154,False,reduced
+2071986,Imani,Murphy,2014-09-05,7,A218,imani.murphy14@coralbayusd.org,Hannah Murphy,hannahmurphy60@heronmail.net,(704) 959-0491,False,paid
+1556510,Diego,Hughes,2013-03-15,8,E182,diego.hughes13@coralbayusd.org,Gabriel Hughes,hughes.gabriel@birchletters.com,480-959-2016,False,paid
+3362343,Valeria,Delgado,2011-03-29,10,C213,valeria.delgado11@coralbayusd.org,Rohan Delgado,delgado.rohan@heronmail.net,972-959-6289,False,paid
+4051397,Maya,Garcia,2011-03-10,10,A129,maya.garcia11@coralbayusd.org,Imani Garcia,imani.garcia@cinderwire.net,480-958-8288,False,free
+1385561,Nathan,Lopez,2012-09-15,9,E154,nathan.lopez12@coralbayusd.org,Quinn Lopez,quinn_lopez2@maplewire.net,(713) 959-9788,False,reduced
+4416155,Dominic,Boateng,2010-07-31,11,C211,dominic.boateng10@coralbayusd.org,Tariq Boateng,tariq_boateng3@slatedispatch.net,(704) 958-4133,False,free
+4456528,Yusuf,Vasquez,2014-10-12,7,A242,yusuf.vasquez14@coralbayusd.org,Owen Vasquez,ovasquez96@heronwire.net,(615) 959-9913,True,paid
+7086932,Xavier,Nguyen,2013-02-12,8,A253,xavier.nguyen13@coralbayusd.org,Omar Nguyen,onguyen96@cobaltletters.com,972-959-9507,False,free
+9734737,Valeria,Coleman,2011-06-04,10,B156,valeria.coleman11@coralbayusd.org,Layla Coleman,layla_coleman3@birchinbox.net,773-958-2160,False,free
+2949083,Elena,Diaz,2013-01-15,8,A212,elena.diaz13@coralbayusd.org,Kevin Diaz,diaz.kevin@heronwire.net,480-958-5287,False,reduced
+2632463,Yara,Abernathy,2016-06-01,5,D314,yara.abernathy16@coralbayusd.org,Carter Abernathy,cabernathy88@tidalletters.com,512-959-6852,True,paid
+4925687,Amara,Boateng,2016-10-06,5,A234,amara.boateng16@coralbayusd.org,Ava Boateng,avaboateng21@cobaltletters.com,(206) 959-5597,False,reduced
+6090684,Emily,Ferreira,2013-10-14,8,B263,emily.ferreira13@coralbayusd.org,Jackson Ferreira,jacksonferreira38@cinderinbox.net,(303) 959-9794,False,reduced
+6614375,Dominic,Vasquez,2011-02-12,10,E223,dominic.vasquez11@coralbayusd.org,Leilani Vasquez,leilani.vasquez@birchletters.com,(480) 959-0786,False,reduced
+2274397,Sofia,Perez,2015-04-01,6,D105,sofia.perez15@coralbayusd.org,Keanu Perez,perez.keanu@heronwire.net,(817) 958-1901,True,paid
+5115485,Hannah,Williams,2012-10-30,9,C144,hannah.williams12@coralbayusd.org,Noah Williams,nwilliams76@cinderdispatch.net,(512) 959-3416,False,paid
+7852497,Adrian,Mitchell,2015-01-20,6,B270,adrian.mitchell15@coralbayusd.org,Fatima Mitchell,mitchell.fatima@cobaltletters.com,512-959-7683,False,paid
+4859097,Alejandro,Flores,2014-06-22,7,A309,alejandro.flores14@coralbayusd.org,Quinn Flores,flores.quinn@cinderinbox.net,(407) 959-0391,False,reduced
+5860353,Leilani,Okafor,2011-09-22,10,B103,leilani.okafor11@coralbayusd.org,Aisha Foster,afoster77@birchdispatch.net,(305) 959-6232,False,reduced
+7140161,Kevin,Garcia,2016-08-17,5,D248,kevin.garcia16@coralbayusd.org,Elena Garcia,egarcia80@heronwire.net,704-958-1352,False,reduced
+9589956,Quinn,Ibarra,2013-12-05,8,C154,quinn.ibarra13@coralbayusd.org,Samuel Ibarra,ibarra.samuel@cinderdispatch.net,(210) 958-3340,False,free
+9348862,Liam,Young,2014-07-29,7,C207,liam.young14@coralbayusd.org,Rohan Gupta,gupta.rohan@heronmail.net,(720) 958-9013,False,free
+7272348,Zoe,Anderson,2016-08-01,5,E181,zoe.anderson16@coralbayusd.org,Josiah Anderson,josiah.anderson@quillnote.net,(214) 958-4183,False,free
+4032384,Omar,Mendoza,2012-05-03,9,E292,omar.mendoza12@coralbayusd.org,Santiago Mendoza,smendoza91@cobaltletters.com,512-958-6038,False,free
+1746819,Aisha,Jackson,2014-11-30,7,A162,aisha.jackson14@coralbayusd.org,Lucas Jackson,ljackson81@cinderinbox.net,(972) 959-1750,True,paid
+9325812,Alejandro,Okafor,2010-11-28,11,C229,alejandro.okafor10@coralbayusd.org,Dominic Okafor,dominicokafor70@asterwire.net,(817) 959-1762,False,free
+9202942,Delilah,Hernandez,2014-06-23,7,B242,delilah.hernandez14@coralbayusd.org,Anika Hernandez,hernandez.anika@cinderwire.net,615-959-2436,False,free
+3710686,Zoe,Abernathy,2013-07-27,8,B139,zoe.abernathy13@coralbayusd.org,Madison Abernathy,madisonabernathy7@tidalletters.com,(512) 958-5209,False,free
+4439165,Santiago,Diaz,2015-07-16,6,C178,santiago.diaz15@coralbayusd.org,Isabella Diaz,isabelladiaz97@quillnote.net,281-959-9495,False,paid
+4518533,Camila,Kowalski,2013-06-16,8,C172,camila.kowalski13@coralbayusd.org,Priya Kowalski,priya.kowalski@cinderinbox.net,678-959-0023,False,paid
+6187254,Olivia,Robinson,2014-10-05,7,A243,olivia.robinson14@coralbayusd.org,Wyatt Robinson,wyatt_robinson7@tidalletters.com,(303) 958-7910,False,reduced
+9680328,Benjamin,Chen,2015-10-11,6,D216,benjamin.chen15@coralbayusd.org,Amara Chen,achen95@asterwire.net,602-959-6398,False,paid
+7840614,Mason,Jenkins,2013-11-17,8,E106,mason.jenkins13@coralbayusd.org,Valeria Jenkins,jenkins.valeria@slatedispatch.net,832-959-3120,False,reduced
+6875891,Yara,Kowalski,2016-04-18,5,A238,yara.kowalski16@coralbayusd.org,Ethan Kowalski,ekowalski88@slatedispatch.net,(303) 959-4021,False,paid
+4673257,Anika,Walker,2011-04-22,10,A299,anika.walker11@coralbayusd.org,Maria Walker,walker.maria@birchinbox.net,(786) 959-5279,False,paid
+6699178,Aaliyah,Vasquez,2012-06-13,9,D277,aaliyah.vasquez12@coralbayusd.org,Keanu Vasquez,kvasquez99@cinderinbox.net,(480) 958-0892,False,free
+6063157,Yusuf,Mitchell,2014-10-27,7,A179,yusuf.mitchell14@coralbayusd.org,Grace Mitchell,grace.mitchell@heronmail.net,407-959-5237,False,free
+3334990,Mateo,Reyes,2013-01-24,8,E286,mateo.reyes13@coralbayusd.org,Noah Reyes,noah_reyes9@quillnote.net,(305) 958-2136,False,paid
+4009809,Isabella,Abernathy,2011-05-13,10,A212,isabella.abernathy11@coralbayusd.org,Javier Kim,jkim90@tidalletters.com,(305) 958-2160,False,paid
+5932030,Rohan,Ortiz,2013-04-15,8,D213,rohan.ortiz13@coralbayusd.org,Isabella Ortiz,isabella_ortiz4@birchletters.com,312-958-9965,False,free
+1127187,Xavier,Shah,2010-06-26,11,D238,xavier.shah10@coralbayusd.org,Imani Abernathy,imani_abernathy3@tidalbox.net,(214) 958-2383,False,paid
+3106730,Quinn,Diaz,2010-02-13,11,A256,quinn.diaz10@coralbayusd.org,Hector Diaz,hdiaz97@heronwire.net,206-959-9973,False,paid
+9018189,Hannah,Patel,2013-07-17,8,B158,hannah.patel13@coralbayusd.org,Olivia Patel,oliviapatel53@quillnote.net,214-958-5439,True,free
